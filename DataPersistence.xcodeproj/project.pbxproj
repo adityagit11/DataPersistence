@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		522B7F59262B3CC400C07C99 /* libDataPersistence.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libDataPersistence.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		522B7F5C262B3CC400C07C99 /* DataPersistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataPersistence.swift; sourceTree = "<group>"; };
+		522B7F64262B4A1500C07C99 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +42,7 @@
 		522B7F50262B3CC400C07C99 = {
 			isa = PBXGroup;
 			children = (
+				522B7F64262B4A1500C07C99 /* README.md */,
 				522B7F5B262B3CC400C07C99 /* DataPersistence */,
 				522B7F5A262B3CC400C07C99 /* Products */,
 			);

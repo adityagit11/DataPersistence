@@ -5,6 +5,3 @@
 //  Created by Aditya Singh on 17/04/21.
 //
 
-class DataPersistence {
-
-}
